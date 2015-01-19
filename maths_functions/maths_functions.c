@@ -12,3 +12,6 @@ int main()
   if (a % b !=0) {
      printf("The remainder is: %i", a%b);
 }
+
+main 0;
+
